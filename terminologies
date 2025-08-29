@@ -1,0 +1,5 @@
+config.vm.box -> os
+config.vm.provider -> virtualbox
+config.vm.network -> how ur host sees ur box
+config.vm.synced_folder -> how u access files from ur cpu
+config.vm.provision -> what u want to setup up
